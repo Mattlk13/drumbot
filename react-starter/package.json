@@ -4,13 +4,13 @@
   "private": true,
   "homepage": "https://noops-challenge.github.io/drumbot/",
   "dependencies": {
-    "gh-pages": "^2.0.1",
-    "lodash": ">=4.17.0",
+    "gh-pages": "^5.0.0",
+    "lodash": ">=4.17.21",
     "lodash.template": ">=4.5.0",
     "react": "^16.8.6",
     "react-app-polyfill": "^1.0.1",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "whatwg-fetch": "^3.0.0"
   },
   "scripts": {
